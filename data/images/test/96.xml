@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>96.jpg</filename>
+	<path>/home/gonza/Proyectos/Reconocimiento/Tablero/object_detection_demo/data/images/test/96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tablero 0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>19</ymin>
+			<xmax>676</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

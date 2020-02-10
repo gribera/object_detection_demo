@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>93.jpg</filename>
+	<path>/home/gonza/Proyectos/Reconocimiento/Tablero/object_detection_demo/data/images/train/93.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tablero 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>114</ymin>
+			<xmax>644</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>
