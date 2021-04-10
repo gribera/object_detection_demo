@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>18.jpg</filename>
-	<path>/home/gonza/Proyectos/Reconocimiento/Tablero/object_detection_demo/data/images/train/18.jpg</path>
+	<path>/home/gonza/Proyectos/TensorFlow/object_detection_demo/data/images/train/18.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Tablero 1</name>
+		<name>manaos</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>248</xmin>
-			<ymin>154</ymin>
-			<xmax>535</xmax>
-			<ymax>351</ymax>
+			<xmin>156</xmin>
+			<ymin>46</ymin>
+			<xmax>353</xmax>
+			<ymax>250</ymax>
 		</bndbox>
 	</object>
 </annotation>

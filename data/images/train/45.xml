@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>45.jpg</filename>
-	<path>/home/gonza/Proyectos/Reconocimiento/Tablero/object_detection_demo/data/images/train/45.jpg</path>
+	<path>/home/gonza/Proyectos/TensorFlow/object_detection_demo/data/images/train/45.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Tablero 1</name>
+		<name>schweppes</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>74</xmin>
-			<ymin>110</ymin>
-			<xmax>699</xmax>
-			<ymax>487</ymax>
+			<xmin>572</xmin>
+			<ymin>369</ymin>
+			<xmax>757</xmax>
+			<ymax>529</ymax>
 		</bndbox>
 	</object>
 </annotation>

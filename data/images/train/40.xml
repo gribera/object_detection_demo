@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>40.jpg</filename>
-	<path>/home/gonza/Proyectos/Reconocimiento/Tablero/object_detection_demo/data/images/train/40.jpg</path>
+	<path>/home/gonza/Proyectos/TensorFlow/object_detection_demo/data/images/train/40.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Tablero 3</name>
+		<name>pepsi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>506</xmin>
-			<ymin>178</ymin>
-			<xmax>627</xmax>
-			<ymax>305</ymax>
+			<xmin>291</xmin>
+			<ymin>269</ymin>
+			<xmax>439</xmax>
+			<ymax>373</ymax>
 		</bndbox>
 	</object>
 </annotation>
